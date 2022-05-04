@@ -32,14 +32,19 @@ conda instal -c Conda-forge voila
 
 Installation Dependancies:
 
-![] copy path 
+![](https://github.com/Alexisg324/Passive_Investing/blob/main/Passive_Investing/Screenshots/Screen%20Shot%202022-05-04%20at%201.51.43%20AM.png)
 
 ## Usage 
 
 As a user, I want to view a comparison of several ETF's over a period of time to determine the best investment.  
 
-![] Cum Returns Example with graph
-![] data table example
+Cum Returns Example with graph
+
+![](https://github.com/Alexisg324/Passive_Investing/blob/main/Passive_Investing/Screenshots/Screen%20Shot%202022-05-04%20at%202.06.30%20AM.png)
+
+Data table example
+
+![](https://github.com/Alexisg324/Passive_Investing/blob/main/Passive_Investing/Screenshots/Screen%20Shot%202022-05-04%20at%202.07.10%20AM.png)
 
 ## Contributers
 
@@ -95,14 +100,3 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ## Workcited: 
 
 UCB-Coding-Bootcamp (2021-2022). Module 7. UC Berkeley Fintech Extension. https://courses.bootcampspot.com/
-
-
-
-
-
-
-
-
-
-
-
